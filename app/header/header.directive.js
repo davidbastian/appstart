@@ -1,6 +1,6 @@
 function headerApp() {
     return {
-       template: require('./header.html')
+       //template: require('./header.html')
     };
 
 }
